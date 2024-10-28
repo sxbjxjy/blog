@@ -23,8 +23,8 @@ email: sxbjxjy@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   在思考与探寻中前行
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "xy_blog" # the subpath of your site, e.g. /blog
+url: "http://sxbjxjy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  sxbjxjy
 

@@ -2,7 +2,7 @@
 layout: post
 title: 取得工厂的电话、传真等电子联系方式
 date: 2022-05-10
-category: Other
+categories: x++
 ---
 
 ```csharp

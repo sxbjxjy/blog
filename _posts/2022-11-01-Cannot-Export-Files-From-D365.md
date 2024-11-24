@@ -2,7 +2,7 @@
 layout: post
 title: 无法导出文件错误
 date: 2022-11-01
-category: Other
+categories: D365
 ---
 
 开发环境构筑后，无法从D365的Table Browser或者SSRS report导出Excel文件。

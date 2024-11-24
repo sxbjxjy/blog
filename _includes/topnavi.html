@@ -1,0 +1,9 @@
+<div class="topnavi">
+    <a href="{{ " /" }}">首页</a>
+    {% for category in site.categories %}
+    <a href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
+        <span>{{ category | first }}</span>
+        <!-- <span class="badge">{{ category | last | size }}</span> -->
+    </a>
+    {% endfor %}
+</div>

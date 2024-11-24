@@ -29,7 +29,11 @@ twitter_username: jekyllrb
 github_username:  sxbjxjy
 
 # Build settings
-theme: minima
+# theme: minima
+
+category_dir: category/
+tag_dir: tag/
+
 plugins:
   - jekyll-feed
 

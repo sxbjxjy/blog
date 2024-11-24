@@ -1,0 +1,88 @@
+@import url(syntax/default.css);
+
+pre {
+    display: block;
+    overflow: auto;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    padding: 5px;
+    line-height: 1.2;
+}
+
+code {
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 0.2em 0.4em;
+    font-family: "Menlo", "Consolas", monospace;
+    font-size: 0.8em;
+    margin: 0px;
+    line-height: 1.6em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: steelblue;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Microsoft YaHei', 'Helvetica', serif;
+    color: #2c3e50;
+}
+
+li {
+    /* 去掉列表前的小圆点 */
+    list-style-type: none;
+}
+
+.post-content {
+    padding: 0 100px;
+}
+
+.post-date {
+    text-transform: uppercase;
+    color: #555;
+    letter-spacing: 0.8px;
+    display: inline-block;
+    width: 100px;
+}
+
+.post-header {
+    padding: 20px 0px 20px 0px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+.post-title {
+    font-size: 1.8em;
+    color: #111;
+    font-weight: bold;
+    padding: 0px 0px 10px 0px;
+}
+
+.topnavi {
+    background-color: #333;
+    height: 44px;
+    line-height: 44px;
+}
+
+.topnavi a {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+    height: 44px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.topnavi a:hover {
+    background-color: steelblue;
+}

@@ -51,6 +51,7 @@ li {
     letter-spacing: 0.8px;
     display: inline-block;
     width: 100px;
+    margin-bottom: 10px;
 }
 
 .post-header {
@@ -58,6 +59,14 @@ li {
     margin-bottom: 30px;
     border-bottom: 1px solid #ccc;
     text-align: center;
+}
+
+.post-tags a {
+    color: steelblue;
+}
+
+.post-tags a:hover {
+    text-decoration: underline;
 }
 
 .post-title {

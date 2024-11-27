@@ -82,6 +82,10 @@ li {
     line-height: 44px;
 }
 
+.topnavi>div {
+    float: left;
+}
+
 .topnavi a {
     color: white;
     text-align: center;

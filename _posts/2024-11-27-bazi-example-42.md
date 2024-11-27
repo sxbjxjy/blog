@@ -9,7 +9,7 @@ tags:
  - 六亲
 ---
 
-<img src="/images/bazi-example/bazi-example-42.png" width="75%">
+<img src="/images/bazi-example/bazi-example-42.png" width="70%">
 
 **规律**
 

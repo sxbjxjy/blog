@@ -6,5 +6,5 @@ categories: 八字案例
 tags: 父寿 寿命 六亲
 ---
 
-![bazi-example-42](..\images\bazi-example-42.png)
-
+<!-- ![bazi-example-42](/images/bazi-example/bazi-example-42.png) -->
+<img src="/images/bazi-example/bazi-example-42.png" width="75%">

@@ -83,11 +83,10 @@ li {
 }
 
 .topnavi a {
-    float: left;
     color: white;
     text-align: center;
     font-size: 20px;
-    /* display: inline-block; */
+    display: inline-block;
     height: 44px;
     padding-left: 10px;
     padding-right: 10px;

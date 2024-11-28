@@ -5,7 +5,7 @@ date: 2024-11-27
 categories: 八字案例
 tags: 
  - 牢狱
- - 七杀攻身
+ - 官杀攻身
 ---
 
 <img src="/images/bazi-example/bazi-example-43.png" width="70%">

@@ -41,6 +41,10 @@ li {
     list-style-type: none;
 }
 
+.home {
+    padding: 5%;
+}
+
 .post-content {
     padding: 0 5%;
 }
@@ -83,8 +87,8 @@ li {
 }
 
 .topnavi a {
-    color: white;
     text-align: center;
+    color: white;
     font-size: 20px;
     display: inline-block;
     height: 44px;

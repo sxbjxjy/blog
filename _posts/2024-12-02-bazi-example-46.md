@@ -9,7 +9,7 @@ tags:
  - 白手起家
 ---
 
-<img src="/images/bazi-example/bazi-example-46.png" width="70%">
+<img src="/images/bazi-example/bazi-example-46.PNG" width="70%">
 
 **原局**
 

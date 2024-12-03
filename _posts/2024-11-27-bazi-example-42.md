@@ -6,8 +6,9 @@ categories: 八字案例
 tags: 
  - 父寿
  - 寿命
+ - 父亲
  - 六亲
----
+ ---
 
 <img src="/images/bazi-example/bazi-example-42.PNG" width="70%">
 

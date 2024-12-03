@@ -8,7 +8,7 @@ tags:
  - 寿命
  - 父亲
  - 六亲
- ---
+---
 
 <img src="/images/bazi-example/bazi-example-42.PNG" width="70%">
 

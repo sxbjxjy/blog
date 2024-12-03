@@ -9,7 +9,7 @@ tags:
  - 财破印
 ---
 
-<img src="/images/bazi-example/bazi-example-45.png" width="70%">
+<img src="/images/bazi-example/bazi-example-45.PNG" width="70%">
 
 **规律**
 

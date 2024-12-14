@@ -1,0 +1,30 @@
+<div class="tag-cloud-div">
+    <ul class="tag-cloud">
+        {% for tag in site.tags %}
+        <li style="font-size: {{ tag | last | size | times: 200 | divided_by: site.tags.size | plus: 100 }}%">
+            <a href="#{{ tag | first | slugize }}">
+                {{ tag | first }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div id="archives">
+    {% for tag in site.tags %}
+    <div class="archive-group">
+        {% capture tag_name %}{{ tag | first }}{% endcapture %}
+        <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}({{ tag | last | size }})</h3>
+        <a name="{{ tag_name | slugize }}"></a>
+        {% for post in site.tags[tag_name] %}
+        <article class="archive-item">
+            <li>
+                {%- assign date_format = "%Y/%m/%d" -%}
+                <span class="post-date">{{ post.date | date: date_format }}</span>
+                <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </li>
+        </article>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>

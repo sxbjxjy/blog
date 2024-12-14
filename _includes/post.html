@@ -10,7 +10,7 @@
         <div class="post-tags">
             {% if page.tags %}
             {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tags#{{ tag | slugize }}">
+            <a href="{{ site.baseurl }}/tag/#{{ tag | slugize }}">
                 #{{ tag }}
             </a>
             {% endfor %}

@@ -104,3 +104,34 @@ li {
 .topnavi-last {
     clear: both;
 }
+
+/* for tag cloud and archives */
+.tag-cloud-div {
+    padding: 1% 10%;
+}
+
+.tag-cloud {
+    list-style: none;
+    padding: 0;
+    text-align: justify;
+    font-size: 16px;
+
+    li {
+        display: inline-block;
+        margin: 0 12px 12px 0;
+    }
+}
+
+#archives {
+    padding: 0 10%;
+}
+
+.archive-group {
+    margin: 5px;
+    border-top: 1px solid #ddd;
+}
+
+.archive-item {
+    padding: 0 5%;
+    margin-left: 5px;
+}

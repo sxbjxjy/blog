@@ -1,5 +1,12 @@
 <div class="topnavi">
-    <a href="{{ " /" }}">首页</a>
+    <a href="{{ " /" }}">
+        <img src="/images/homepage/icons8-home-50.png" height="22px"
+            style="display: inline-block; vertical-align: middle;">
+    </a>
+    <a href="{{ site.baseurl }}/tag/">
+        <img src="/images/homepage/icons8-tags-50.png" height="20px"
+            style="display: inline-block; vertical-align: middle;">
+    </a>
     {% assign sorted_categories = site.categories | sort %}
     {% for category in sorted_categories %}
     <a href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">

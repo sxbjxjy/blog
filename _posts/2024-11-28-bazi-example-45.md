@@ -4,9 +4,12 @@ title: 八字案例45 重病
 date: 2024-11-28
 categories: 八字案例
 tags: 
+ - 正印格
+ - 败格
  - 疾病
  - 入墓
- - 财破印
+ - 财坏印
+ - 金病
 ---
 
 <img src="/images/bazi-example/bazi-example-45.PNG" width="70%">

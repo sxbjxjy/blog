@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 八字案例48 结婚
+title: 八字案例48 女命结婚
 date: 2024-12-04
 categories: 八字案例
 tags: 
  - 婚姻
  - 结婚
  - 女命结婚
+ - 星宫同变
 ---
 
 <img src="/images/bazi-example/bazi-example-48.PNG" width="70%">

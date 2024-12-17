@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 八字案例52 结婚
+title: 八字案例52 女命结婚
 date: 2024-12-10
 categories: 八字案例
 tags:

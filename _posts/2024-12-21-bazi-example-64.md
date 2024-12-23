@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 八字案例64 伤官见官
-date: 2024-12-10
+date: 2024-12-21
 categories: 八字案例
 tags:
  - 建禄格

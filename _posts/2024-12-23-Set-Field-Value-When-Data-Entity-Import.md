@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DataEntity在import时设定private field的值
-date: 2023-12-23
+date: 2024-12-23
 categories: x++
 ---
 
@@ -23,4 +23,4 @@ categories: x++
 
 **参考资料**
 
-[D365FO – AX – Update Data Entity Target Entity fields with X++](https://d365ffo.com/2021/05/07/d365ffo-ax-update-data-entity-target-entity-fields-with-x/comment-page-1/)
+[D365FO – AX – Update Data Entity Target Entity fields with X++](https://d365ffo.com/2021/05/07/d365ffo-ax-update-data-entity-target-entity-fields-with-x/comment-page-1/){:target="_blank"}

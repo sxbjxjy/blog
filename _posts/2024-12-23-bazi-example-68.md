@@ -8,6 +8,7 @@ tags:
  - 败格
  - 枭神夺食
  - 贫
+ - 湿土晦火
 ---
 
 <img src="/images/bazi-example/bazi-example-68.PNG" width="70%">

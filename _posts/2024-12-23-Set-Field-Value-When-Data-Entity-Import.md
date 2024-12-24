@@ -2,7 +2,7 @@
 layout: post
 title: DataEntity在import时设定private field的值
 date: 2024-12-23
-categories: x++
+categories: X++
 ---
 
 通过DataEntity导入数据时，有一些private field的值，没有在数据的文件里指定，所以需要用代码来设定值，类似于在Table插入数据时的值自动设定。通过继承`mapEntityToDataSource()`来实现。

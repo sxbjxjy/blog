@@ -2,7 +2,7 @@
 layout: post
 title: 给原创Form的String Control添加Lookup
 date: 2022-05-08
-categories: x++
+categories: X++
 ---
 
 ```csharp

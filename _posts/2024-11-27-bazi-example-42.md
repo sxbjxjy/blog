@@ -3,7 +3,8 @@ layout: post
 title: 八字案例42 父亲寿命
 date: 2024-11-27
 categories: 八字案例
-tags: 
+tags:
+ - 乙日卯月
  - 父寿
  - 寿命
  - 父亲

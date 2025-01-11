@@ -3,7 +3,8 @@ layout: post
 title: 八字案例48 女命结婚
 date: 2024-12-04
 categories: 八字案例
-tags: 
+tags:
+ - 丁日戌月
  - 婚姻
  - 结婚
  - 女命结婚

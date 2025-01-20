@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 八字案例84 离婚
+title: 八字案例84 女命离婚
 date: 2025-01-20
 categories: 八字案例
 tags:
